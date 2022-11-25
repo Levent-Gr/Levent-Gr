@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Levent</h1>
-<h3 align="center">A passionate Android developer from Turkey</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477px6lwd5qq90jrad360joo70a3u8dt7bpr66qery&rid=giphy.gif&ct=g" />
+
+
+I graduated from CBU as a computer programmer. I have been developing native android application for over a year using Kotlin and Java. I use MVVM, Coroutines, RxJava, Retrofit, Dependency Injection(Dagger, Hilt), Livedata, Kotlin Flows, Navigation, Firebase, Room, Databinding, Viewbinding, libraries in my projects.
 
 - 🔭 I’m currently working on **my own projects**
 
 - 🌱 I’m currently learning **Creating android applications better than before.**
 
 - 📫 How to reach me **levo.1907.levo@gmail.com**
+
+- 👀 I'm interested Coding, Popular Science and Technology, Fitness, Football, History
+
+- 🤝 My Google Play link **https://play.google.com/store/apps/dev?id=4719481065777627210&hl=tr&gl=US**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
