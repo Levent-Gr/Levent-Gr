@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Levent</h1>
 
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477px6lwd5qq90jrad360joo70a3u8dt7bpr66qery&rid=giphy.gif&ct=g" />
+<img align="right" alt="Coding" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477px6lwd5qq90jrad360joo70a3u8dt7bpr66qery&rid=giphy.gif&ct=g" />
 
 
 I graduated from CBU as a computer programmer. I have been developing native android application for over a year using Kotlin and Java. I use MVVM, Coroutines, RxJava, Retrofit, Dependency Injection(Dagger, Hilt), Livedata, Kotlin Flows, Navigation, Firebase, Room, Databinding, Viewbinding, libraries in my projects.
