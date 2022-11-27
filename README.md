@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477px6lwd5qq90jrad360joo70a3u8dt7bpr66qery&rid=giphy.gif&ct=g" />
 
 I am Levent from Turkey, I have been developing my own native android application using Kotlin and Java for over a year.
-I use MVVM, Coroutines, RxJava, Retrofit, Dependency Injection(Dagger, Hilt), Livedata, Kotlin Flows, Navigation, Firebase, Room, Databinding, Viewbinding, libraries in my projects.I graduated from CBU as a computer programmer.
+I use MVVM, Coroutines, RxJava, Retrofit, Dependency Injection(Dagger, Hilt), Livedata, Flows, Navigation, Firebase, Room, Databinding, Viewbinding, libraries in my projects.I graduated from CBU as a computer programmer.
 
 - 🔭 I’m currently working on **my own projects**
 
